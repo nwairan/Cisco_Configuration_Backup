@@ -26,7 +26,7 @@ Before using the script, ensure that the following prerequisites are met:
 To run the script, use the following command format:
 
 ```bash
-python CBakcup.py <username> <password> <ip_file>
+python CBackup.py <username> <password> <ip_file>
 ```
 
 - `<username>`: Your SSH username for connecting to the Cisco devices.
@@ -36,7 +36,7 @@ python CBakcup.py <username> <password> <ip_file>
 ### Example
 
 ```bash
-python CBakcup.py myusername mypassword ips.txt
+python CBackup.py myusername mypassword ips.txt
 ```
 
 ### Script Execution
