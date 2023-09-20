@@ -79,5 +79,3 @@ The script logs any exceptions or errors encountered during execution in the 'lo
 
 The "Cisco Configuration Backup Script" simplifies the task of backing up configurations from multiple Cisco devices. By following this manual and the provided usage instructions, you can efficiently automate the backup process and ensure that your configurations are safe and accessible when needed.
 ```
-
-You can copy and paste this Markdown text into a Markdown editor or viewer to format it as needed.
